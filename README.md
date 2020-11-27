@@ -6,7 +6,9 @@
 
 > a list of things that one wants to get done or that need to get done
 
-### ✨ [Demo](https://desolate-fortress-87018.herokuapp.com/)
+### ✨ [Demo]
+
+https://desolate-fortress-87018.herokuapp.com/
 
 ## Prerequisites
 
