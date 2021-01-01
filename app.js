@@ -60,7 +60,7 @@ app.get('/', function (req, res) {
             })
             res.redirect("/")
         } else {
-            var year=date.getFullYear()
+            var year=date.getFullYear();
             res.render('list', {
                 title: day,
                 newItems: foundItems,
